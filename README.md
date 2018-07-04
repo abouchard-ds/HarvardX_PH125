@@ -25,7 +25,7 @@ Le certificat est principalement de la programmation R et des statistiques. Le p
 
 C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS, R, SPSS et les cours de statistiques sont plus complets. Le defaut c'est qu'on ne parle pas directement de machine learning, malgre l'IVADO et le MILA, et on utilise le terme "analytique d'affaire" que personne ne comprend au lieu de "data science" que tout le monde veut faire.
 
-Le certificat est compose de 10 cours (30 credits)
+Le certificat HEC est compose de 10 cours (30 credits). Voici une comparaison des deux :
 
 | HEC Montreal | Harvard |
 | --- | --- |
