@@ -17,6 +17,8 @@ Le certificat est principalement de la programmation R et des statistiques. Le p
 * PH125.8x Data Science: Machine Learning
 * PH125.9x Data Science: Capstone
 
+Ainsi qu'un livre: [Introduction to datascience](https://rafalab.github.io/dsbook/)
+
 .
 ----------
 # HEC Montreal - Certificat en analytique d'affaires
