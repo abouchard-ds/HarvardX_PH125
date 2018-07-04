@@ -28,6 +28,7 @@ C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC c
 Le certificat est compose de 10 cours (30 credits)
 
 | HEC Montreal | Harvard |
+| --- | --- |
 |30-600-17 Statistique |PH125.3x Probability + PH125.4x Inference and Modeling + PH125.7x Linear Regression|
 |30-602-16 Logiciels statistiques pour la gestion (**R**, SAS, SAS-SQL)|PH125.1x R Basics|
 |30-603-16 Méthodes statistiques avancées |PH125.8x Machine Learning|
