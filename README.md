@@ -32,7 +32,7 @@ Le certificat HEC est compose de 10 cours (30 credits). Voici une comparaison de
 |30-600-17 Statistique |PH125.3x Probability + PH125.4x Inference and Modeling + PH125.7x Linear Regression|
 |30-602-16 Logiciels statistiques pour la gestion (**R**, SAS, SAS-SQL)|PH125.1x R Basics|
 |30-603-16 Méthodes statistiques avancées |PH125.8x Machine Learning|
-|30-606-16 Traitement et visualisation de données| PH125.2x Visualization + PH125.6x Wrangling|
+|30-606-16 Traitement et visualisation de données| PH125.6x Wrangling + PH125.2x Visualization |
 |30-650-17 Introduction à l'analytique d'affaires| |
 |30-604-16 Modèles d'optimisation et de recherche opérationnelle| PH125.8x Machine Learning|
 |30-607-16 Web analytique| |
