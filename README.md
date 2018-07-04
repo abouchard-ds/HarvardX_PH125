@@ -2,7 +2,7 @@
 
 ![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
-Le certificat est principalement de la programmation R et des statistiques. Le professeur est biostatisticien de formation. La mission est ainsi: "The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning."
+Le certificat est principalement de la programmation R et des statistiques. Le professeur est biostatisticien de formation. La mission est ainsi: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*."
 
 "Data Science Professional Certificate" est compose des 9 cours suivants :
 
