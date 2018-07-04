@@ -2,7 +2,7 @@
 
 ![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
-Le certificat est principalement de la programmation R et des statistiques. Le professeur est biostatisticien de formation. La mission est ainsi: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*."
+Le certificat est principalement de la programmation R et des statistiques. Le professeur est biostatisticien de formation. La mission est ainsi: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cours incite a travailler en ligne de commande et dans Unix.
 
 "Data Science Professional Certificate" est compose des 9 cours suivants :
 
@@ -25,7 +25,7 @@ Ainsi qu'un livre: [Introduction to datascience](https://rafalab.github.io/dsboo
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 
-C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS, R, SPSS et les cours de statistiques sont plus complets. Le defaut c'est qu'on ne parle pas directement de machine learning, malgre l'IVADO et le MILA, et on utilise le terme "analytique d'affaire" que personne ne comprend au lieu de "data science" que tout le monde veut faire.
+C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS, R, SPSS et les cours de statistiques sont plus complets. Le defaut c'est qu'on ne parle pas directement de machine learning, malgre l'IVADO et le MILA, et on utilise le terme "analytique d'affaire" que personne ne comprend au lieu de "data science" que tout le monde veut faire. L'ecole incite a travailler avec des logiciels proprietaires, avec GUI, dans windows.
 
 Le certificat HEC est compose de 10 cours (30 credits). Voici une comparaison des deux :
 
