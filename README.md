@@ -18,6 +18,11 @@ Le certificat est principalement de la programmation R et des statistiques. Le p
 * PH125.8x Data Science: Machine Learning
 * PH125.9x Data Science: Capstone
 
+.
+----------
+
+![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
+
 C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS, R, SPSS et les cours de statistiques sont plus complets.
 
 * 30-600-17 Statistique
@@ -31,4 +36,3 @@ C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC c
 * xxx Au choix
 * xxx Au choix
 
-![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
