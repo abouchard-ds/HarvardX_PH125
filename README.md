@@ -19,7 +19,7 @@ Le certificat est principalement de la programmation R et des statistiques. Le p
 
 .
 ----------
-# HEC Montreal - Certificat en analytique d'affaires (data science)
+# HEC Montreal - Certificat en analytique d'affaires
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 
