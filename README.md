@@ -12,6 +12,7 @@ Le certificat est principalement de la programmation R et des statistiques. Le p
 * PH125.3x Data Science: Probability
 * PH125.4x Data Science: Inference and Modeling
 * PH125.5x Data Science: Productivity Tools
+[Complete](https://courses.edx.org/certificates/6ef7b5368b714d00a4608c7575e41dc0)
 * PH125.6x Data Science: Wrangling
 * PH125.7x Data Science: Linear Regression
 * PH125.8x Data Science: Machine Learning
