@@ -23,7 +23,7 @@ Le certificat est principalement de la programmation R et des statistiques. Le p
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 
-C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS, R, SPSS et les cours de statistiques sont plus complets.
+C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS, R, SPSS et les cours de statistiques sont plus complets. Le defaut c'est qu'on ne parle pas directement de machine learning, malgre l'IVADO et le MILA, et on utilise le terme "analytique d'affaire" que personne ne comprend au lieu de "data science" que tout le monde veut faire.
 
 * 30-600-17 Statistique (=equivaut= PH125.3x Probability + PH125.4x Inference and Modeling + PH125.7x Linear Regression)
 * 30-602-16 Logiciels statistiques pour la gestion (**R**, SAS, SAS-SQL)
