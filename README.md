@@ -2,9 +2,9 @@
 
 ![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
-Le "certificat professionnel" est principalement de la programmation R et des statistiques (comme le programme ""d'analytique d'affaires"" de HEC - qui lui passe par d'autres outils statistiques proprietaire: Excel, R, SAS, SPSS). 
+Le "certificat professionnel" est principalement de la programmation R et des statistiques (comme le programme ""d'analytique d'affaires"" de HEC - qui lui passe par d'autres outils statistiques proprietaire: Excel, R, SAS, SPSS). Le professeur est biostatisticien de formation.
 
-Il est compose des 9 cours suivants :
+"Data Science Professional Certificate" est compose des 9 cours suivants :
 
 * PH125.1x Data Science: R Basics
 [Complete](https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314)
