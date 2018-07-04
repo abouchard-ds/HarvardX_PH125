@@ -8,7 +8,6 @@ Le certificat est principalement de la programmation R et des statistiques. Le p
 
 * PH125.1x Data Science: R Basics
 [Complete](https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314)
-
 * PH125.2x Data Science: Visualization
 * PH125.3x Data Science: Probability
 * PH125.4x Data Science: Inference and Modeling
