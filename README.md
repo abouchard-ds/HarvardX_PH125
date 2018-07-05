@@ -7,12 +7,12 @@ Le certificat est principalement de la programmation R et des statistiques. Le p
 "Data Science Professional Certificate" est compose des 9 cours suivants :
 
 * PH125.1x Data Science: R Basics
-[Complete](https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314)
+[link](https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314)
 * PH125.2x Data Science: Visualization
 * PH125.3x Data Science: Probability
 * PH125.4x Data Science: Inference and Modeling
 * PH125.5x Data Science: Productivity Tools
-[Complete](https://courses.edx.org/certificates/6ef7b5368b714d00a4608c7575e41dc0)
+[link](https://courses.edx.org/certificates/6ef7b5368b714d00a4608c7575e41dc0)
 * PH125.6x Data Science: Wrangling
 * PH125.7x Data Science: Linear Regression
 * PH125.8x Data Science: Machine Learning
