@@ -26,7 +26,7 @@ Ainsi qu'un livre: [Introduction to datascience](https://rafalab.github.io/dsboo
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 
-C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS, R, SPSS et les cours de statistiques sont plus complets. Le defaut c'est qu'on ne parle pas directement de machine learning, malgre l'IVADO et le MILA, et on utilise le terme "analytique d'affaire" que personne ne comprend au lieu de "data science" que tout le monde veut faire. L'ecole incite a travailler avec des logiciels proprietaires, avec GUI, dans windows.
+C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS,  SPSS et les cours de statistiques sont plus complets. Le defaut c'est qu'on ne parle pas directement de machine learning, malgre l'IVADO et le MILA, et on utilise le terme "analytique d'affaire" que personne ne comprend au lieu de "data science" que tout le monde veut faire. L'ecole incite a travailler avec des logiciels proprietaires, avec GUI, dans windows.
 
 Le certificat HEC est compose de 10 cours (30 credits). Voici une comparaison des deux :
 
@@ -51,7 +51,7 @@ Le certificat HEC est compose de 10 cours (30 credits). Voici une comparaison de
 
 Le defaut commun c'est qu'aucune de ces universite d'elites n'inclus un cours d'ethique pour le data science. Je fais donc ce cours qui est vraiment interessant:
 
-* DS101 Data Science Ethics
+* DS101 **Data Science Ethics**
 
 #### Themes abordes:
 
