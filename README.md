@@ -55,12 +55,32 @@ Le defaut commun c'est qu'aucune de ces universite d'elites n'inclus un cours d'
 
 #### Themes abordes:
 
-1. Etique
+1. Qu'est-ce qie l'Ethique. La science des donnees a besoin de l'ethique
 2. Histoire et concept de consentement informe
+   - recherche sur des sujets humains et consentement informe
+   - limites du consentement informe
 3. Propriete(ownership) des donnees
+   - propriete des donnees
+   - limite de l'enregistrement et de l'utilisation des donnees
 4. Vie privee
+   - publicite ciblee
+   - cas : le Naked Mile
+   - applications mobiles sneaky
 5. Anonimite
+   - de la valeur limitee de la de-identification
 6. Validite des donnees
+   - validite, choix des attributs et mesures
+   - erreurs dans la traitement des donnees
+   - erreurs dans la modelisation (statistique, recherche operationnelle)
 7. Equite/impartialite algorithmique
-8. Consequences/impact societale (y aura-t-il un jour des "pre-con", si j'arrive a predire un pattern qui mene a l'emprisonnement, devrais-je arrete la personne avant quelle face du mal, ou l'espionne jusqu'a ce qu'elle commete un crime?)
+   - equite algorithmique
+   - resultats corrects mais trompeur
+   - p-hacking (tests d'hypothese)
+   - geopricing
+   - votre securite est ma perte de profit
+8. Consequences/impact societale
+   - impact societal
+   - surveillance
+   - ossification
+   - politique predictive
 9. Code d'ethique
