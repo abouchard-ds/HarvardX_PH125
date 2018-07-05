@@ -29,6 +29,7 @@ Ainsi qu'un livre: [Introduction to datascience](https://rafalab.github.io/dsboo
 C'est tres semblable au programme d'analytique d'affaires de HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS,  SPSS et les cours de statistiques sont plus complets. Le defaut c'est qu'on ne parle pas directement de machine learning, malgre l'IVADO et le MILA, et on utilise le terme 'analytique d'affaire' que personne ne comprend  **au lieu de "data science"** que tout le monde veut faire. L'ecole incite a travailler avec des logiciels proprietaires, avec GUI, dans Windows.
 
 (*ne soyons pas dupes - peu de gens font la difference entre 'analyse d'affaires','intelligence d'affaires' et 'analytique d'affaires'*)
+(*pour ceux qui ont une idee 'analytique' signifie big data*)
 
 Le certificat HEC est compose de 10 cours (30 credits). Voici une comparaison des deux :
 
