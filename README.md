@@ -21,13 +21,11 @@ Le certificat est principalement de la programmation R et des statistiques. Le p
 Ainsi qu'un livre: [Introduction to datascience](https://rafalab.github.io/dsbook/)
 
 
-R is listed as a required skill in 64% of data science job postings and was Glassdoor’s Best Job in America in 2016 and 2017. (source: Glassdoor)
+*R is listed as a required skill in 64% of data science job postings and was Glassdoor’s Best Job in America in 2016 and 2017. (source: Glassdoor)*
 
-Companies are leveraging the power of data analysis to drive innovation. Google data analysts use R to track trends in ad pricing and illuminate patterns in search data. Pfizer created customized packages for R so scientists can manipulate their own data.
+***32% of full-time data scientists started learning machine learning or data science through a MOOC, while 27% were self-taught. (source: Kaggle, 2017)***
 
-**32% of full-time data scientists started learning machine learning or data science through a MOOC, while 27% were self-taught. (source: Kaggle, 2017)**
-
-Data Scientists are few in number and high in demand. (source: TechRepublic)
+*Data Scientists are few in number and high in demand. (source: TechRepublic)*
 
 
 
