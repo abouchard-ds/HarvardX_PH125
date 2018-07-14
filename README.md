@@ -33,7 +33,7 @@ Un livre gratuit est fourni (ecrit en R Markdown): [Introduction to datascience]
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 
-Le certificat est tres semblable au programme d'analytique d'affaires que j'entreprend a HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS, SPSS et les cours de statistiques sont plus complets. Le defaut c'est qu'on ne parle pas directement de machine learning, malgre l'IVADO et le MILA, et on utilise le terme 'analytique d'affaire' au lieu de "data science". L'ecole incite a travailler avec des logiciels proprietaires, avec GUI, dans Windows.
+Le certificat est tres semblable au programme d'analytique d'affaires que j'entreprend a HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS, SPSS, Tableau et les cours de statistiques sont plus complets. Le defaut c'est qu'on ne nomme pas explicitement le machine learning, malgre l'IVADO et le MILA, et on utilise le terme 'analytique d'affaire' au lieu de "data science". L'ecole incite a travailler avec des logiciels proprietaires, avec GUI, dans Windows.
 
 Le certificat HEC est compose de 10 cours (30 credits). Voici une comparaison des deux :
 
