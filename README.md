@@ -54,9 +54,7 @@ Le certificat HEC est compose de 10 cours (30 credits). Voici une comparaison de
 ----------
 # University of Michigan
 
-![UoM](https://www.commonapp.org/files/school/image/umich-memberpage-header%208.10.15.jpg)
-
-Le defaut commun c'est qu'aucune de ces universite d'elites n'inclus un cours d'ethique pour le data science. Je fais donc ce cours qui est vraiment interessant:
+Aucune de ces universites d'elites n'inclut un cours d'ethique pour la science des donnees. J'ajoute donc ce cours vraiment interessant a mon cursus:
 
 * DS101 **Data Science Ethics**
 
