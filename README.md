@@ -22,6 +22,7 @@ Le certificat concerne la programmation R et les statistiques. Le professeur Iri
 * PH125.5x Data Science: Productivity Tools
 [link](https://courses.edx.org/certificates/6ef7b5368b714d00a4608c7575e41dc0)
 * PH125.6x Data Science: Wrangling
+[link](https://courses.edx.org/certificates/b126c78808f940d18839ac3ffeef2e3f)
 * PH125.7x Data Science: Linear Regression
 * PH125.8x Data Science: Machine Learning
 * PH125.9x Data Science: Capstone
