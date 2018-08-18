@@ -1,7 +1,9 @@
 # R cheat sheets
 
-## 1
+## Wrangling
+
 ![Data Wrangling](r_datawrangling_cs.jpeg)
 
-## 2
-![Data Visualization](r_ggplot2_cs.jpeg
+## Visualization
+
+![Data Visualization](r_ggplot2_cs.jpeg)
