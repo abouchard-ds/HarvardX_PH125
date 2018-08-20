@@ -18,7 +18,7 @@ Le certificat concerne la programmation R et les statistiques. Le professeur Iri
 [link](https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314)
 * PH125.2x Data Science: Visualization [link](https://courses.edx.org/certificates/64d48644f39f4607b71a7350c2c58d3c)
 * PH125.3x Data Science: Probability [link](https://courses.edx.org/certificates/678f8521863f47ac88888547c41ae916)
-* PH125.4x Data Science: Inference and Modeling (en cours)
+* PH125.4x Data Science: Inference and Modeling [link](https://courses.edx.org/certificates/3a01e2901dde48618d7ec0db8034a60e)
 * PH125.5x Data Science: Productivity Tools
 [link](https://courses.edx.org/certificates/6ef7b5368b714d00a4608c7575e41dc0)
 * PH125.6x Data Science: Wrangling
