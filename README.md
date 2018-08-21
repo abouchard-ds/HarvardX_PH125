@@ -2,7 +2,6 @@
 
 ![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
-
 > *R is listed as a required skill in 64% of data science job postings and was Glassdoor’s Best Job in America in 2016 and 2017. (source: Glassdoor)*
 
 > ***32% of full-time data scientists started learning machine learning or data science through a MOOC, while 27% were self-taught. (source: Kaggle, 2017)***
@@ -41,8 +40,8 @@ Le certificat HEC est composé de 10 cours (30 credits). Voici un tableau qui te
 | HEC Montreal | Harvard |
 | --- | --- |
 |30-600-17 Statistique | PH125.3x Probability + PH125.4x Inference and Modeling + PH125.7x Linear Regression |
-|30-602-16 Logiciels statistiques pour la gestion | PH125.1x R Basics |
-|30-603-16 Méthodes statistiques avancées | PH125.8x Machine Learning + PH125.4x Inference and Modeling + PH125.7x Linear Regression |
+|30-602-16 Logiciels statistiques pour la gestion | PH125.1x R Basics, PH125.5x Productivity Tools |
+|30-603-16 Méthodes statistiques avancées |  PH125.4x Inference and Modeling + PH125.7x Linear Regression |
 |30-606-16 Traitement et visualisation de données| PH125.6x Wrangling + PH125.2x Visualization |
 |30-650-17 Introduction à l'analytique d'affaires| |
 |30-604-16 Modèles d'optimisation et de recherche opérationnelle | PH125.8x Machine Learning|
