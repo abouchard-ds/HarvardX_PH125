@@ -55,7 +55,7 @@ Le certificat HEC est composé de 10 cours (30 credits). Voici un tableau qui te
 #### Note: tout(e) etudiant(e) de HEC Montreal peut joindre le groupe Github "HEC Montreal - Data Science student interest group in Github" afin de partager des projets, de la connaissance et des contacts.
 
 ----------
-# University of Michigan
+# University of Michigan - Data Science Ethics
 
 Aucune de ces universités d'élites n'inclut un cours d'éthique pour la science des données. J'ajoute donc ce cours exemplaire à mon cursus:
 
