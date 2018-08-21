@@ -3,16 +3,16 @@
 ![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
 
-*R is listed as a required skill in 64% of data science job postings and was Glassdoor’s Best Job in America in 2016 and 2017. (source: Glassdoor)*
+> *R is listed as a required skill in 64% of data science job postings and was Glassdoor’s Best Job in America in 2016 and 2017. (source: Glassdoor)*
 
-***32% of full-time data scientists started learning machine learning or data science through a MOOC, while 27% were self-taught. (source: Kaggle, 2017)***
+> ***32% of full-time data scientists started learning machine learning or data science through a MOOC, while 27% were self-taught. (source: Kaggle, 2017)***
 
-*Data Scientists are few in number and high in demand. (source: TechRepublic)*
+> *Data Scientists are few in number and high in demand. (source: TechRepublic)*
 
 
-Le certificat concerne la programmation R et les statistiques. Le professeur Irizarry est biostatisticien de formation. La mission est ainsi: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cours incite a travailler en command line et dans Unix.
+Le certificat est une excellente introduction a la programmation R et aux statistiques. Le professeur Irizarry est biostatisticien et professeur au "*Harvard T.H. Chan School of Public Health*". La description du certificat est: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cursus utilise Linux, R et rstudio.
 
-"Data Science Professional Certificate" est compose des 9 cours suivants :
+"Data Science Professional Certificate" est composé des 9 cours suivants :
 
 * PH125.1x Data Science: R Basics
 [link](https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314)
@@ -27,16 +27,16 @@ Le certificat concerne la programmation R et les statistiques. Le professeur Iri
 * PH125.8x Data Science: Machine Learning
 * PH125.9x Data Science: Capstone
 
-Un livre gratuit est fourni (ecrit en R Markdown): [Introduction to datascience](https://rafalab.github.io/dsbook/)
+Un livre gratuit(R Markdown) est fourni pour les cours 1-4: [Introduction to datascience](https://rafalab.github.io/dsbook/)
 
 ----------
 # HEC Montreal - Certificat en analytique d'affaires
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 
-Le certificat est tres semblable au programme d'analytique d'affaires que j'entreprend a HEC Montreal. HEC couvre plus de logiciels proprietaires tel que : Excel, SAS, SPSS, Tableau et les cours de statistiques sont plus complets. Le defaut c'est qu'on ne nomme pas explicitement le machine learning, malgre l'IVADO et le MILA, et on utilise le terme 'analytique d'affaire' au lieu de "data science". L'ecole incite a travailler avec des logiciels proprietaires, avec GUI, dans Windows.
+Le certificat est semblable et complémentaire au programme d'analytique d'affaires que j'entreprend aux HEC Montreal. Outre R, HEC couvre plus de logiciels propriétaires tel que : Excel, SAS, SPSS, Tableau et les cours de statistiques sont plus complets. La différence est qu'on ne nomme pas explicitement le machine learning (malgré l'[IVADO](https://ivado.ca/en/) et le [MILA](https://mila.quebec/en/)) et qu'on utilise le terme 'analytique d'affaires' au lieu de "data science".
 
-Le certificat HEC est compose de 10 cours (30 credits). Voici une comparaison des deux :
+Le certificat HEC est composé de 10 cours (30 credits). Voici un tableau qui tente de demontrer la similarité la matière des 2 programmes :
 
 | HEC Montreal | Harvard |
 | --- | --- |
@@ -54,38 +54,38 @@ Le certificat HEC est compose de 10 cours (30 credits). Voici une comparaison de
 ----------
 # University of Michigan
 
-Aucune de ces universites d'elites n'inclut un cours d'ethique pour la science des donnees. J'ajoute donc ce cours vraiment interessant a mon cursus:
+Aucune de ces universités d'élites n'inclut un cours d'éthique pour la science des données. J'ajoute donc ce cours exemplaire à mon cursus:
 
 * DS101 **Data Science Ethics**
 
 #### Themes abordes:
 
-1. Qu'est-ce qie l'Ethique. La science des donnees a besoin de l'ethique
-2. Histoire et concept de consentement informe
-   - recherche sur des sujets humains et consentement informe
-   - limites du consentement informe
-3. Propriete(ownership) des donnees
-   - propriete des donnees
-   - limite de l'enregistrement et de l'utilisation des donnees
-4. Vie privee
-   - publicite ciblee
+1. Qu'est-ce que l'Ethique. La science des données a besoin de l'ethique
+2. Histoire et concept de consentement informé
+   - recherche sur des sujets humains et consentement informé
+   - limites du consentement informé
+3. Propriéte(ownership) des données
+   - propriéte des données
+   - limite de l'enregistrement et de l'utilisation des données
+4. Vie privée
+   - publicité ciblée
    - cas : le Naked Mile
    - applications mobiles sneaky
-5. Anonimite
-   - de la valeur limitee de la de-identification
-6. Validite des donnees
-   - validite, choix des attributs et mesures
-   - erreurs dans la traitement des donnees
-   - erreurs dans la modelisation (statistique, recherche operationnelle)
-7. Equite/impartialite algorithmique
-   - equite algorithmique
-   - resultats corrects mais trompeur
+5. Anonimité
+   - de la valeur limitée de la dé-identification
+6. Validité des données
+   - validité, choix des attributs et mesures
+   - erreurs dans la traitement des données
+   - erreurs dans la modélisation (statistique, recherche operationnelle)
+7. Equité/impartialité algorithmique
+   - équité algorithmique
+   - résultats corrects mais trompeur
    - p-hacking (tests d'hypothese)
    - geopricing
-   - votre securite est ma perte de profit
-8. Consequences/impact societale
-   - impact societal
+   - votre sécurité est ma perte de profit
+8. Conséquences/impact sociétal
+   - impact sociétal
    - surveillance
    - ossification
-   - politique predictive
-9. Code d'ethique
+   - politique prédictive
+9. Code d'éthique du scientifique des données
