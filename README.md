@@ -13,18 +13,18 @@ Le certificat est une excellente introduction a la programmation R et aux statis
 
 "Data Science Professional Certificate" est composé des 9 cours suivants :
 
-* PH125.1x Data Science: R Basics
+* PH125.1 Data Science: R Basics
 [link](https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314)
-* PH125.2x Data Science: Visualization [link](https://courses.edx.org/certificates/64d48644f39f4607b71a7350c2c58d3c)
-* PH125.3x Data Science: Probability [link](https://courses.edx.org/certificates/678f8521863f47ac88888547c41ae916)
-* PH125.4x Data Science: Inference and Modeling [link](https://courses.edx.org/certificates/3a01e2901dde48618d7ec0db8034a60e)
-* PH125.5x Data Science: Productivity Tools
+* PH125.2 Data Science: Visualization [link](https://courses.edx.org/certificates/64d48644f39f4607b71a7350c2c58d3c)
+* PH125.3 Data Science: Probability [link](https://courses.edx.org/certificates/678f8521863f47ac88888547c41ae916)
+* PH125.4 Data Science: Inference and Modeling [link](https://courses.edx.org/certificates/3a01e2901dde48618d7ec0db8034a60e)
+* PH125.5 Data Science: Productivity Tools
 [link](https://courses.edx.org/certificates/6ef7b5368b714d00a4608c7575e41dc0)
-* PH125.6x Data Science: Wrangling
+* PH125.6 Data Science: Wrangling
 [link](https://courses.edx.org/certificates/b126c78808f940d18839ac3ffeef2e3f)
-* PH125.7x Data Science: Linear Regression
-* PH125.8x Data Science: Machine Learning
-* PH125.9x Data Science: Capstone
+* PH125.7 Data Science: Linear Regression
+* PH125.8 Data Science: Machine Learning
+* PH125.9 Data Science: Capstone
 
 Un livre gratuit (démonstration R Markdown) est fourni pour les cours 1-4: [Introduction to datascience](https://rafalab.github.io/dsbook/)
 
