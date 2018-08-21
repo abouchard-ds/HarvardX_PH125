@@ -33,7 +33,9 @@ Un livre gratuit (démonstration R Markdown) est fourni pour les cours 1-4: [Int
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 
-Le certificat est semblable et complémentaire au programme d'analytique d'affaires que j'entreprend aux HEC Montreal. Outre R, HEC couvre plus de logiciels propriétaires tel que : Excel, SAS, SPSS, Tableau et les cours de statistiques sont plus complets. La différence est qu'on ne nomme pas explicitement le machine learning (malgré l'[IVADO](https://ivado.ca/en/) et le [MILA](https://mila.quebec/en/)) et qu'on utilise le terme 'analytique d'affaires' au lieu de "data science".
+Le certificat est semblable et complémentaire au programme d'analytique d'affaires que j'entreprend aux HEC Montreal. Il me permet d'obtenir plus de pratique et d'etude de cas et de mettre une plus grande emphase au niveau programmation linux.
+
+Outre R, HEC couvre plus de logiciels propriétaires tel que : Excel, SAS, SPSS, Tableau et les cours de statistiques sont plus complets. La différence est qu'on ne nomme pas explicitement le machine learning (malgré l'[IVADO](https://ivado.ca/en/) et le [MILA](https://mila.quebec/en/)) et qu'on utilise le terme 'analytique d'affaires' au lieu de "data science".
 
 Le certificat HEC est composé de 10 cours (30 credits). Voici un tableau qui tente de demontrer la similarité la matière des 2 programmes :
 
