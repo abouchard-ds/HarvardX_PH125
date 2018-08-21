@@ -52,6 +52,8 @@ Le certificat HEC est composé de 10 cours (30 credits). Voici un tableau qui te
 | Au choix | |
 | Au choix | |
 
+#### Note: tout(e) etudiant(e) de HEC Montreal peut joindre le groupe Github "HEC Montreal - Data Science student interest group in Github" afin de partager des projets, de la connaissance et des contacts.
+
 ----------
 # University of Michigan
 
