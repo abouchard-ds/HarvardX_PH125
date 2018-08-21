@@ -27,10 +27,10 @@ Le certificat est une excellente introduction a la programmation R et aux statis
 * PH125.8x Data Science: Machine Learning
 * PH125.9x Data Science: Capstone
 
-Un livre gratuit(R Markdown) est fourni pour les cours 1-4: [Introduction to datascience](https://rafalab.github.io/dsbook/)
+Un livre gratuit (démonstration R Markdown) est fourni pour les cours 1-4: [Introduction to datascience](https://rafalab.github.io/dsbook/)
 
 ----------
-# HEC Montreal - Certificat en analytique d'affaires
+# HEC Montreal - Certificat en "analytique d'affaires"
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 
