@@ -5,23 +5,26 @@
 
 > *Data Scientists are few in number and high in demand. (source: TechRepublic)*
 
+
+------------------------------------------------------------------------------------------------------------------------
+
 # Harvard - Data Science Professional Certificate
 
 ![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
 Le certificat est une excellente introduction a la programmation R et aux statistiques. Le professeur Irizarry est biostatisticien et professeur au *Harvard T.H. Chan School of Public Health*. La description du certificat est: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cursus utilise Linux, R et rstudio.
 
-"*Data Science Professional Certificate*" est composé des 9 cours suivants :
+Le certificat est composé des 9 cours suivants :
 
-- [x] PH125.1 Data Science: R Basics                [link][1]
-- [x] PH125.2 Data Science: Visualization           [link][2]
-- [x] PH125.3 Data Science: Probability             [link][3]
-- [x] PH125.4 Data Science: Inference and Modeling  [link][4]
-- [x] PH125.5 Data Science: Productivity Tools      [link][5]
-- [x] PH125.6 Data Science: Wrangling               [link][6]
-- [ ] PH125.7 Data Science: Linear Regression
-- [ ] PH125.8 Data Science: Machine Learning
-- [ ] PH125.9 Data Science: Capstone :mortar_board:
+   - [x] PH125.1 Data Science: R Basics                [link][1]
+   - [x] PH125.2 Data Science: Visualization           [link][2]
+   - [x] PH125.3 Data Science: Probability             [link][3]
+   - [x] PH125.4 Data Science: Inference and Modeling  [link][4]
+   - [x] PH125.5 Data Science: Productivity Tools      [link][5]
+   - [x] PH125.6 Data Science: Wrangling               [link][6]
+   - [ ] PH125.7 Data Science: Linear Regression
+   - [ ] PH125.8 Data Science: Machine Learning
+   - [ ] PH125.9 Data Science: Capstone :mortar_board:
 
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
 
@@ -35,6 +38,7 @@ Le certificat est une excellente introduction a la programmation R et aux statis
 
 
 ------------------------------------------------------------------------------------------------------------------------
+
 # HEC Montreal - Certificat analytique d'affaires
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
@@ -64,6 +68,7 @@ Le certificat HEC est composé de 10 cours (30 credits). Voici un tableau qui te
 
 
 ------------------------------------------------------------------------------------------------------------------------
+
 # University of Michigan - Data Science Ethics
 
 Aucune de ces universités d'élites n'incluent un cours d'éthique pour la science des données dans leur programme. J'ajoute donc ce [cours exemplaire][m1] à mon cursus:
