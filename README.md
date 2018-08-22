@@ -1,12 +1,13 @@
-# Harvard - Data Science Professional Certificate
-
-![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
 > *R is listed as a required skill in 64% of data science job postings and was Glassdoor’s Best Job in America in 2016 and 2017. (source: Glassdoor)*
 
 > *32% of full-time data scientists started learning machine learning or data science through a MOOC, while 27% were self-taught. (source: Kaggle, 2017)*
 
 > *Data Scientists are few in number and high in demand. (source: TechRepublic)*
+
+# Harvard - Data Science Professional Certificate
+
+![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
 Le certificat est une excellente introduction a la programmation R et aux statistiques. Le professeur Irizarry est biostatisticien et professeur au "*Harvard T.H. Chan School of Public Health*". La description du certificat est: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cursus utilise Linux, R et rstudio.
 
