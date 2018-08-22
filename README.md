@@ -87,5 +87,9 @@ Aucune de ces universités d'élites n'incluent un cours d'éthique pour la scie
 7. Algorithmic Fairness
 8. Societal Consequences
 9. Code of Ethics
+   - **Do not surprise** (the data subject should not be suprise, he should expect what you do)
+   - **Own the outcomes** (think about and look for undesirable consequences and correct them don't put it in fine print in user agreement -> do not surprise)
+   - Need a simple code that always work
+   - Ask yourself about data: owner, usage, valid, fair
 
 [m1]: https://www.edx.org/course/data-science-ethics
