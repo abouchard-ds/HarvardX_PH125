@@ -9,21 +9,21 @@
 
 ![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
-Le certificat est une excellente introduction a la programmation R et aux statistiques. Le professeur Irizarry est biostatisticien et professeur au "*Harvard T.H. Chan School of Public Health*". La description du certificat est: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cursus utilise Linux, R et rstudio.
+Le certificat est une excellente introduction a la programmation R et aux statistiques. Le professeur Irizarry est biostatisticien et professeur au *Harvard T.H. Chan School of Public Health*. La description du certificat est: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cursus utilise Linux, R et rstudio.
 
-"Data Science Professional Certificate" est composé des 9 cours suivants :
+"*Data Science Professional Certificate*" est composé des 9 cours suivants :
 
-* PH125.1 Data Science: R Basics  [link][1]
-* PH125.2 Data Science: Visualization [link][2]
-* PH125.3 Data Science: Probability [link][3]
-* PH125.4 Data Science: Inference and Modeling [link][4]
-* PH125.5 Data Science: Productivity Tools [link][5]
-* PH125.6 Data Science: Wrangling [link][6]
-* PH125.7 Data Science: Linear Regression
-* PH125.8 Data Science: Machine Learning
-* PH125.9 Data Science: Capstone
+- [x] PH125.1 Data Science: R Basics                [link][1]
+- [x] PH125.2 Data Science: Visualization           [link][2]
+- [x] PH125.3 Data Science: Probability             [link][3]
+- [x] PH125.4 Data Science: Inference and Modeling  [link][4]
+- [x] PH125.5 Data Science: Productivity Tools      [link][5]
+- [x] PH125.6 Data Science: Wrangling               [link][6]
+- [ ] PH125.7 Data Science: Linear Regression
+- [ ] PH125.8 Data Science: Machine Learning
+- [ ] PH125.9 Data Science: Capstone :mortar_board:
 
-Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
+:notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
 
 [1]: https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314
 [2]: https://courses.edx.org/certificates/64d48644f39f4607b71a7350c2c58d3c
