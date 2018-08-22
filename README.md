@@ -74,7 +74,7 @@ Le certificat HEC est composé de 10 cours (30 credits). Voici un tableau qui te
 
 Aucune de ces universités d'élites n'incluent un cours d'éthique pour la science des données dans leur programme. J'ajoute donc ce [cours exemplaire][m1] à mon cursus:
 
-* DS101 **Data Science Ethics**
+   - [x] DS101 **Data Science Ethics** [link][m2]
 
 #### Themes abordés:
 
@@ -87,9 +87,12 @@ Aucune de ces universités d'élites n'incluent un cours d'éthique pour la scie
 7. Algorithmic Fairness
 8. Societal Consequences
 9. Code of Ethics
-   - **Do not surprise** (the data subject should not be suprise, he should expect what you do)
-   - **Own the outcomes** (think about and look for undesirable consequences and correct them don't put it in fine print in user agreement -> do not surprise)
+   - **Do not surprise** (the data subject should not be suprised by your analytics the way your algorithm works, etc.)
+   - **Own the outcomes** (think about and look for undesirable consequences and correct them. don't just offload to society and put it in fine print in user agreement)
    - Need a simple code that always work
+   - Need to define limits before going too far
    - Ask yourself about data: owner, usage, valid, fair
+   
 
 [m1]: https://www.edx.org/course/data-science-ethics
+[m2]: https://courses.edx.org/certificates/3242c01434aa41ac8d8acda14dbdcf23
