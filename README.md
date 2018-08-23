@@ -22,7 +22,7 @@ Le certificat est composé des 9 cours suivants :
    - [x] PH125.4 Data Science: Inference and Modeling  [link][4]
    - [x] PH125.5 Data Science: Productivity Tools      [link][5]
    - [x] PH125.6 Data Science: Wrangling               [link][6]
-   - [ ] PH125.7 Data Science: Linear Regression
+   - [x] PH125.7 Data Science: Linear Regression       [link][7]
    - [ ] PH125.8 Data Science: Machine Learning
    - [ ] PH125.9 Data Science: Capstone :mortar_board:
 
@@ -34,6 +34,7 @@ Le certificat est composé des 9 cours suivants :
 [4]: https://courses.edx.org/certificates/3a01e2901dde48618d7ec0db8034a60e
 [5]: https://courses.edx.org/certificates/6ef7b5368b714d00a4608c7575e41dc0
 [6]: https://courses.edx.org/certificates/b126c78808f940d18839ac3ffeef2e3f
+[7]: https://courses.edx.org/certificates/f8648ba4b3b843e5a7d991ad2f5f545e
 [10]: https://rafalab.github.io/dsbook/
 
 
