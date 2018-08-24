@@ -28,7 +28,7 @@ Le programme est composé des 9 cours suivants :
    - [ ] PH125.8 Data Science: Machine Learning :hot_pepper:
    - [ ] PH125.9 Data Science: Capstone :mortar_board:
 
-Selon mon experience (pere 2 jeunes enfants, travail temps plein - seulement 1-2 heures libres par soir), la plupart des cours se completent en 1 semaine, certains en 2 si on veut tres bien assimiler la matiere en recherchant d'autres sources et en traduisant.
+Une personne n'ayant aucun concept en programmation et en statistiques devraient prendre beaucoup de temps pour bie  assimiler la matiere (surtout les conditions en statistiques). Une personne connaissant deja 3-4 languages de programmation et les statistiques peut completee plusieurs cours en une journee. Par exemple quelqu'un dans le programme d'analytique d'affaires aux HEC ;)
 
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
 
