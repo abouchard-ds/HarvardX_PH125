@@ -12,11 +12,11 @@
 
 ![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
-Le certificat est une excellente introduction à la programmation R et aux statistiques. On y couvre les rudiments de R, quelques ensembles de données issue du CRAN de meme que les packages incontournables dans la profession (le tidyverse, broom, etc). Du coté critique, je crois que bien que les bases de statistiques enseignées soit fondamentales, ce programme seul doit etre supplementer de cours de mathématiques pour atteindre le niveau necéssaire a une pratique sérieuse.
+Le certificat est une excellente introduction à la programmation R et aux statistiques. On y couvre les rudiments de R, quelques ensembles de données issu du CRAN de même que les packages incontournables dans la profession (tidyverse, broom, etc). Du côté critique je crois que, bien que les bases statistiques enseignées soit fondamentales, ce programme seul doit être supplementé de cours de mathématiques pour atteindre le niveau necéssaire à une pratique sérieuse de la science des données.
 
 Le professeur Irizarry est biostatisticien et professeur au *Harvard T.H. Chan School of Public Health*. La description du certificat est: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cursus utilise R et rstudio sur linux.
 
-Le certificat est composé des 9 cours suivants :
+Le programme est composé des 9 cours suivants :
 
    - [x] PH125.1 Data Science: R Basics                [link][1]
    - [x] PH125.2 Data Science: Visualization           [link][2]
@@ -46,11 +46,11 @@ Le certificat est composé des 9 cours suivants :
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 
-Le certificat est semblable et complémentaire au programme d'analytique d'affaires que j'entreprend aux HEC Montreal. Il me permet d'obtenir plus de pratique et d'etude de cas et de mettre une plus grande emphase au niveau programmation linux.
+Le certificat est semblable et complémentaire au programme d'analytique d'affaires que j'entreprend à l'école des Hautes-Etudes-Commerciales Montréal. Il me permet d'acquérir plus de pratique et d'études de cas et de mettre une plus grande emphase au niveau programmation linux.
 
-Outre R, HEC couvre plus de logiciels propriétaires tel que : Excel, SAS, SPSS,  et les cours de statistiques sont plus complets (et nombreux). La différence est qu'on ne nomme pas explicitement le machine learning (malgré l'[IVADO][h1] et le [MILA][h2]) et que l'on utilise le terme 'analytique d'affaires' au lieu de "*data science*". Cote critique, je crois que l'ecole devrait mettre plus d'emphase sur les algorithmes d'apprentissage statistiques, l'apprentissage profond et les logiciels open source qui permettent d'appliquer ce que l'on apprend a cout zero et reduit les couts des entreprises.
+Outre R, HEC couvre plus de logiciels propriétaires tel que : Excel, SAS, SPSS, Tableau et les cours de statistiques sont plus complets et nombreux. La différence est qu'on ne nomme pas explicitement le *machine learning* (malgré l'[IVADO][h1] et le [MILA][h2]) et que l'on utilise le terme 'analytique d'affaires' au lieu de "*data science*". Côté critique, je crois que l'école devrait mettre plus de temps sur les algorithmes d'apprentissage statistiques, l'apprentissage profond et les logiciels *open source* qui permettent d'appliquer ce que l'on apprend en réduisant les coûts d'opérations des entreprises nous employant.
 
-Le certificat HEC est composé de 10 cours (30 credits). Voici un tableau qui tente de démontrer la similarité de la matière des 2 programmes:
+Le certificat HEC est composé de 10 cours (30 crédits). Voici un tableau qui tente de souligner la similarité de la matière des 2 programmes:
 
 | HEC Montreal                              | Harvard                                               |
 | ----------------------------------------- | ----------------------------------------------------- |
