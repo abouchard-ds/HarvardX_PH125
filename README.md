@@ -12,7 +12,9 @@
 
 ![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
-Le certificat est une excellente introduction a la programmation R et aux statistiques. Le professeur Irizarry est biostatisticien et professeur au *Harvard T.H. Chan School of Public Health*. La description du certificat est: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cursus utilise Linux, R et rstudio.
+Le certificat est une excellente introduction a la programmation R et aux statistiques. On y couvre les rudiments de R, quelques ensembles de donnees du CRAN de meme que les packages incontournables dans la profession (le tidyverse, broom, etc). Du cote critique, je crois que bien que les rudiments de statistiques enseignes soit fondamentaux, ce programme seul doit etre supplementer de cours de mathematiques pour atteindre le niveau necessaire a une pratique serieuse. Au niveau linux, la matiere ne serait pas suffisante pour accomplir une installation de R, peut-etre suis-je biaise apres des annees de travail sur linux.
+
+Le professeur Irizarry est biostatisticien et professeur au *Harvard T.H. Chan School of Public Health*. La description du certificat est: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cursus utilise R et rstudio sur linux.
 
 Le certificat est composé des 9 cours suivants :
 
@@ -46,7 +48,7 @@ Le certificat est composé des 9 cours suivants :
 
 Le certificat est semblable et complémentaire au programme d'analytique d'affaires que j'entreprend aux HEC Montreal. Il me permet d'obtenir plus de pratique et d'etude de cas et de mettre une plus grande emphase au niveau programmation linux.
 
-Outre R, HEC couvre plus de logiciels propriétaires tel que : Excel, SAS, SPSS, Tableau (pour travailler dans des entreprises qui preferent donner leurs profits a des fabricants de logiciels au lieu de choisir de l'open source) et les cours de statistiques sont plus complets. La différence est qu'on ne nomme pas explicitement le machine learning (malgré l'[IVADO][h1] et le [MILA][h2]) et que l'on utilise le terme 'analytique d'affaires' au lieu de "*data science*".
+Outre R, HEC couvre plus de logiciels propriétaires tel que : Excel, SAS, SPSS,  et les cours de statistiques sont plus complets (et nombreux). La différence est qu'on ne nomme pas explicitement le machine learning (malgré l'[IVADO][h1] et le [MILA][h2]) et que l'on utilise le terme 'analytique d'affaires' au lieu de "*data science*". Cote critique, je crois que l'ecole devrait mettre plus d'emphase sur les algorithmes d'apprentissage statistiques, l'apprentissage profond et les logiciels open source qui permettent d'appliquer ce que l'on apprend a cout zero et reduit les couts des entreprises.
 
 Le certificat HEC est composé de 10 cours (30 credits). Voici un tableau qui tente de démontrer la similarité de la matière des 2 programmes:
 
