@@ -28,6 +28,8 @@ Le programme est composé des 9 cours suivants :
    - [ ] PH125.8 Data Science: Machine Learning :hot_pepper:
    - [ ] PH125.9 Data Science: Capstone :mortar_board:
 
+Selon mon experience (pere 2 jeunes enfants, travail temps plein - seulement 1-2 heures libres par soir), la plupart des cours se completent en 1 semaine, certains en 2 si on veut tres bien assimiler la matiere en recherchant d'autres sources et en traduisant.
+
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
 
 [1]: https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314
