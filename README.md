@@ -42,7 +42,7 @@ Le programme est composé des 9 cours suivants :
 
 ------------------------------------------------------------------------------------------------------------------------
 
-# HEC Montreal - Certificat analytique d'affaires
+# HEC Montréal - Certificat analytique d'affaires
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 
