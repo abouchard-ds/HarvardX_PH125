@@ -18,14 +18,14 @@ Le professeur Irizarry est biostatisticien et professeur au *Harvard T.H. Chan S
 
 Le programme est composé des 9 cours suivants :
 
-   - [x] PH125.1 Data Science: R Basics                [link][1]
-   - [x] PH125.2 Data Science: Visualization           [link][2]
-   - [x] PH125.3 Data Science: Probability             [link][3]
-   - [x] PH125.4 Data Science: Inference and Modeling  [link][4]
-   - [x] PH125.5 Data Science: Productivity Tools      [link][5]
-   - [x] PH125.6 Data Science: Wrangling               [link][6]
-   - [x] PH125.7 Data Science: Linear Regression       [link][7]
-   - [ ] PH125.8 Data Science: Machine Learning
+   - [x] PH125.1 Data Science: [R Basics][1]
+   - [x] PH125.2 Data Science: [Visualization][2]
+   - [x] PH125.3 Data Science: [Probability][3]
+   - [x] PH125.4 Data Science: [Inference and Modeling][4]
+   - [x] PH125.5 Data Science: [Productivity Tools][5]
+   - [x] PH125.6 Data Science: [Wrangling][6]
+   - [x] PH125.7 Data Science: [Linear Regression][7]
+   - [ ] PH125.8 Data Science: Machine Learning :hot_pepper:
    - [ ] PH125.9 Data Science: Capstone :mortar_board:
 
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
