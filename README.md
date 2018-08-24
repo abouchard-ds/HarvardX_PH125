@@ -12,7 +12,7 @@
 
 ![HarvardX](https://www.edx.org/sites/default/files/school/image/banner/harvardx.jpg)
 
-Le certificat est une excellente introduction a la programmation R et aux statistiques. On y couvre les rudiments de R, quelques ensembles de donnees du CRAN de meme que les packages incontournables dans la profession (le tidyverse, broom, etc). Du cote critique, je crois que bien que les rudiments de statistiques enseignes soit fondamentaux, ce programme seul doit etre supplementer de cours de mathematiques pour atteindre le niveau necessaire a une pratique serieuse. Au niveau linux, la matiere ne serait pas suffisante pour accomplir une installation de R, peut-etre suis-je biaise apres des annees de travail sur linux.
+Le certificat est une excellente introduction à la programmation R et aux statistiques. On y couvre les rudiments de R, quelques ensembles de données issue du CRAN de meme que les packages incontournables dans la profession (le tidyverse, broom, etc). Du coté critique, je crois que bien que les bases de statistiques enseignées soit fondamentales, ce programme seul doit etre supplementer de cours de mathématiques pour atteindre le niveau necéssaire a une pratique sérieuse.
 
 Le professeur Irizarry est biostatisticien et professeur au *Harvard T.H. Chan School of Public Health*. La description du certificat est: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cursus utilise R et rstudio sur linux.
 
