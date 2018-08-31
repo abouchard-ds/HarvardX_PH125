@@ -26,7 +26,7 @@ Le programme est composé des 9 cours suivants :
    - [x] PH125.6 Data Science: [Wrangling][6]
    - [x] PH125.7 Data Science: [Linear Regression][7]
    - [ ] PH125.8 Data Science: Machine Learning :hot_pepper: (reporte du 4 sept au 11 au 18 au 4 oct...)
-   - [ ] PH125.9 Data Science: Capstone :mortar_board:
+   - [ ] PH125.9 Data Science: Capstone :mortar_board: (doit etre complete en dernier)
 
 Une personne n'ayant aucun concept en programmation et en statistiques devraient prendre beaucoup de temps pour bien assimiler la matiere (surtout les conditions en statistiques). Une personne connaissant deja 3-4 languages de programmation et les statistiques peut completer plusieurs cours en une journee.
 
@@ -50,7 +50,7 @@ Une personne n'ayant aucun concept en programmation et en statistiques devraient
 
 Le certificat est semblable et complémentaire au programme d'analytique d'affaires que j'entreprend à l'école des Hautes-Etudes-Commerciales Montréal. Il me permet d'acquérir plus de pratique et d'études de cas et de mettre une plus grande emphase au niveau programmation linux.
 
-Outre R, HEC couvre plus de logiciels propriétaires tel que : Excel, SAS, SPSS, Tableau et les cours de statistiques sont plus complets et nombreux. La différence est qu'on ne nomme pas explicitement le *machine learning* (malgré l'[IVADO][h1] et le [MILA][h2]) et que l'on utilise le terme 'analytique d'affaires' au lieu de "*science des données*" (seul le doctorat porte  cette étiquette). Côté critique, je crois que l'école devrait mettre plus de temps sur les algorithmes d'apprentissage statistiques et l'apprentissage profond. Une plus grande emphase sur les logiciels *open source* (python) qui permettent d'appliquer ce que l'on apprend en réduisant les coûts d'opérations des entreprises serait aussi un avantage.
+Outre R, HEC couvre plus de logiciels propriétaires tels que : Excel, VBA, SAS, SPSS, Tableau et les cours de statistiques sont plus complets et nombreux. La différence est que c'est plus lon a completer et que l'on utilise le terme 'analytique d'affaires' au lieu de "*science des données*". Côté critique, je crois que l'école devrait mettre plus de temps sur les algorithmes d'apprentissage statistiques et l'apprentissage profond ([IVADO][h1] et le [MILA][h2]). Une plus grande emphase sur les logiciels *open source* (python, PSPP, octave,...) qui permettent d'appliquer ce que l'on apprend en réduisant les coûts d'opérations des entreprises serait aussi un avantage.
 
 Le certificat HEC est composé de 10 cours (30 crédits). Voici un tableau qui tente de souligner la similarité de la matière des 2 programmes:
 
@@ -67,6 +67,7 @@ Le certificat HEC est composé de 10 cours (30 crédits). Voici un tableau qui t
 | Au choix                                  |                                                       |
 | Au choix                                  |                                                       |
 
+C'est selon moi LE meilleur programme de certificat au Quebec pour etre en mesure de faire du data science/business analytics rapidement. (une specialisation analytique pour le BAA ou une maitrise c'est un peu plus long ....)
 
 [h1]: https://ivado.ca/en/
 [h2]: https://mila.quebec/en/
