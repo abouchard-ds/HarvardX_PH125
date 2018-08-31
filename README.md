@@ -74,7 +74,11 @@ C'est selon moi LE meilleur programme de certificat au Quebec pour etre en mesur
 
 
 ------------------------------------------------------------------------------------------------------------------------
+# MIT Micro Masters in Statistics and Data Science 
 
+A venur je ne l'ai pas fait encore. Pourquoi le faire? De la pratique cest toujours bon pour crystallise la memoire et celui-ci est en Pyrhon.
+
+-------------------------------------------------------------------------------------------------------------------
 # University of Michigan - Data Science Ethics
 ![Michigan](https://www.edx.org/sites/default/files/school/image/banner/michiganx-institution_page_banner-960x195.jpg)
 
