@@ -32,6 +32,10 @@ Une personne n'ayant aucun concept en programmation et en statistiques devraient
 
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
 
+Il est possible de faire le meme programme en ligne et d'obtenir les credits universitaire de Harvard mais au cout de 2500$ par cours ...
+
+[Informations]()
+
 [1]: https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314
 [2]: https://courses.edx.org/certificates/64d48644f39f4607b71a7350c2c58d3c
 [3]: https://courses.edx.org/certificates/678f8521863f47ac88888547c41ae916
@@ -67,7 +71,9 @@ Le certificat HEC est composé de 10 cours (30 crédits). Voici un tableau qui t
 | Au choix                                  |                                                       |
 | Au choix                                  |                                                       |
 
-C'est selon moi LE meilleur programme de certificat au Quebec pour etre en mesure de faire du data science/business analytics rapidement. (une specialisation analytique pour le BAA ou une maitrise c'est un peu plus long ....)
+C'est selon moi le meilleur programme de certificat au Quebec pour etre en mesure de faire du data science/business analytics rapidement. (une specialisation analytique pour le BAA ou une maitrise c'est un peu plus long ....)
+
+[Informations](http://www.hec.ca/programmes/certificats/certificat-analytique-affaires/structure/index.html)
 
 [h1]: https://ivado.ca/en/
 [h2]: https://mila.quebec/en/
@@ -83,6 +89,8 @@ A venir, je ne l'ai pas fait encore. Pourquoi le faire? De la pratique c'est tou
 - [ ] Fundamentals of statistics
 - [ ] Machine learning with Python: from linear models to deep learning
 - [ ] Capstone exam in statistics and data science (online proctored)
+
+[Informations](https://micromasters.mit.edu/learner/alexbouchard)
 
 -------------------------------------------------------------------------------------------------------------------
 # University of Michigan - Data Science Ethics
