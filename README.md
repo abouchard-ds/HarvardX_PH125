@@ -82,11 +82,11 @@ C'est selon moi le meilleur programme de certificat au Quebec pour etre en mesur
 
 A venir, je ne l'ai pas fait encore. Pourquoi le faire? De la pratique c'est toujours bon pour crystalliser la memoire et celui-ci est en Python. (R est aussi couvert dans 1 cours)
 
-- [ ] Probability: the science of uncertainty and data
-- [ ] Data analysis in social science: assessing your knowledge
-- [ ] Fundamentals of statistics
-- [ ] Machine learning with Python: from linear models to deep learning
-- [ ] Capstone exam in statistics and data science (online proctored)
+- [ ] Probability: the science of uncertainty and data (debut 3 sept.)
+- [ ] Data analysis in social science: assessing your knowledge (debut 11 sept)
+- [ ] Fundamentals of statistics (12 fev 2019)
+- [ ] Machine learning with Python: from linear models to deep learning (11 juin 2019)
+- [ ] Capstone exam in statistics and data science (online proctored) (automne 2019)
 
 [Informations](https://micromasters.mit.edu/learner/alexbouchard)
 
