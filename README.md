@@ -78,6 +78,12 @@ C'est selon moi LE meilleur programme de certificat au Quebec pour etre en mesur
 
 A venir, je ne l'ai pas fait encore. Pourquoi le faire? De la pratique c'est toujours bon pour crystalliser la memoire et celui-ci est en Python. (R est aussi couvert dans 1 cours)
 
+- [ ] Probability: the science of uncertainty and data
+- [ ] Data analysis in social science: assessing your knowledge
+- [ ] Fundamentals of statistics
+- [ ] Machine learning with Python: from linear models to deep learning
+- [ ] Capstone exam in statistics and data science (online proctored)
+
 -------------------------------------------------------------------------------------------------------------------
 # University of Michigan - Data Science Ethics
 ![Michigan](https://www.edx.org/sites/default/files/school/image/banner/michiganx-institution_page_banner-960x195.jpg)
