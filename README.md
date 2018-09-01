@@ -50,7 +50,7 @@ Une personne n'ayant aucun concept en programmation et en statistiques devraient
 
 Le certificat est semblable et complémentaire au programme d'analytique d'affaires que j'entreprend à l'école des Hautes-Etudes-Commerciales Montréal. Il me permet d'acquérir plus de pratique et d'études de cas et de mettre une plus grande emphase au niveau programmation linux.
 
-Outre R, HEC couvre plus de logiciels propriétaires tels que : Excel, VBA, SAS, SPSS, Tableau et les cours de statistiques sont plus complets et nombreux. La différence est que c'est plus lon a completer et que l'on utilise le terme 'analytique d'affaires' au lieu de "*science des données*". Côté critique, je crois que l'école devrait mettre plus de temps sur les algorithmes d'apprentissage statistiques et l'apprentissage profond ([IVADO][h1] et le [MILA][h2]). Une plus grande emphase sur les logiciels *open source* (python, PSPP, octave,...) qui permettent d'appliquer ce que l'on apprend en réduisant les coûts d'opérations des entreprises serait aussi un avantage.
+Outre R, HEC couvre plus de logiciels propriétaires tels que : Excel, VBA, SAS, SPSS, Tableau et les cours de statistiques sont plus complets et nombreux. La différence est que c'est plus long a completer et que l'on utilise le terme 'analytique d'affaires' au lieu de "*science des données*". Côté critique, je crois que l'école devrait mettre plus de temps sur les algorithmes d'apprentissage statistiques et l'apprentissage profond (je suis biaise - [IVADO][h1] et le [MILA][h2]). Une plus grande emphase sur les logiciels *open source* (Python, PSPP, Orange, octave,...) qui permettent d'appliquer ce que l'on apprend en réduisant les coûts d'opérations des entreprises serait aussi un avantage.
 
 Le certificat HEC est composé de 10 cours (30 crédits). Voici un tableau qui tente de souligner la similarité de la matière des 2 programmes:
 
@@ -76,7 +76,7 @@ C'est selon moi LE meilleur programme de certificat au Quebec pour etre en mesur
 ------------------------------------------------------------------------------------------------------------------------
 # MIT Micro Masters in Statistics and Data Science 
 
-A venur je ne l'ai pas fait encore. Pourquoi le faire? De la pratique cest toujours bon pour crystallise la memoire et celui-ci est en Pyrhon.
+A venir, je ne l'ai pas fait encore. Pourquoi le faire? De la pratique c'est toujours bon pour crystalliser la memoire et celui-ci est en Python. (R est aussi couvert dans 1 cours)
 
 -------------------------------------------------------------------------------------------------------------------
 # University of Michigan - Data Science Ethics
