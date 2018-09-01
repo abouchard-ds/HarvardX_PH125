@@ -28,8 +28,6 @@ Le programme est composé des 9 cours suivants :
    - [ ] PH125.8 Data Science: Machine Learning :hot_pepper: (reporte du 4 sept au 11 au 18 au 4 oct...)
    - [ ] PH125.9 Data Science: Capstone :mortar_board: (doit etre complete en dernier)
 
-Une personne n'ayant aucun concept en programmation et en statistiques devraient prendre beaucoup de temps pour bien assimiler la matiere (surtout les conditions en statistiques). Une personne connaissant deja 3-4 languages de programmation et les statistiques peut completer plusieurs cours en une journee.
-
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
 
 Il est possible de faire le meme programme en ligne et d'obtenir les credits universitaire de Harvard mais au cout de 2500$ par cours ...
