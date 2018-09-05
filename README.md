@@ -80,6 +80,8 @@ C'est selon moi le meilleur programme de certificat au Quebec pour etre en mesur
 ------------------------------------------------------------------------------------------------------------------------
 # MIT Micro Masters in Statistics and Data Science 
 
+![MIT](https://www.edx.org/sites/default/files/school/image/banner/mit-home-banner_0.jpg)
+
 A venir, je ne l'ai pas fait encore. Pourquoi le faire? De la pratique c'est toujours bon pour crystalliser la memoire et celui-ci est en Python. (R est aussi couvert dans 1 cours)
 
 - [ ] Probability: the science of uncertainty and data (debut 3 sept.)
