@@ -25,7 +25,7 @@ Le programme est composé des 9 cours suivants :
    - [x] PH125.5 Data Science: [Productivity Tools][5]
    - [x] PH125.6 Data Science: [Wrangling][6]
    - [x] PH125.7 Data Science: [Linear Regression][7]
-   - [ ] PH125.8 Data Science: Machine Learning :hot_pepper: (reporte du 4 sept au 11 au 18 au 4 oct...)
+   - [ ] PH125.8 Data Science: Machine Learning :hot_pepper: (reporte du 4 sept au 11 au 18 au 4 oct au 11 oct ...)
    - [ ] PH125.9 Data Science: Capstone :mortar_board: (doit etre complete en dernier)
 
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
