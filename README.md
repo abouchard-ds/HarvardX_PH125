@@ -80,30 +80,4 @@ C'est selon moi le meilleur programme de certificat au Quebec pour etre en mesur
 
 ------------------------------------------------------------------------------------------------------------------------
 
-# University of Michigan - Data Science Ethics
-![Michigan](https://www.edx.org/sites/default/files/school/image/banner/michiganx-institution_page_banner-960x195.jpg)
 
-Aucune de ces universités d'élites n'incluent un cours d'éthique pour la science des données dans leur programme. J'ajoute donc ce [cours exemplaire][m1] à mon cursus:
-
-   - [x] DS101 **Data Science Ethics** [link][m2]
-
-#### Themes abordés:
-
-1. What are ethics?
-2. History, Concept of Informed Consent
-3. Data Ownership
-4. Privacy
-5. Anonymity
-6. Data Validity
-7. Algorithmic Fairness
-8. Societal Consequences
-9. Code of Ethics
-   - **Do not surprise** (the data subject should not be suprised by your analytics the way your algorithm works, the data collected, the usage of the data, etc.)
-   - **Own the outcomes** (think about and look for undesirable consequences and correct them. don't just offload to society and put it in fine print in user agreement)
-   - Need a simple code that always work
-   - Need to define limits before going too far
-   - Ask yourself about data: owner, usage, valid, fair
-   
-
-[m1]: https://www.edx.org/course/data-science-ethics
-[m2]: https://courses.edx.org/certificates/3242c01434aa41ac8d8acda14dbdcf23
