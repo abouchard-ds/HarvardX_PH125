@@ -18,21 +18,25 @@ Le professeur Irizarry est biostatisticien et professeur au *Harvard T.H. Chan S
 
 Le programme est composé des 9 cours suivants :
 
-   - [x] PH125.1 Data Science: [R Basics][1]
-   - [x] PH125.2 Data Science: [Visualization][2]
-   - [x] PH125.3 Data Science: [Probability][3]
-   - [x] PH125.4 Data Science: [Inference and Modeling][4]
-   - [x] PH125.5 Data Science: [Productivity Tools][5]
-   - [x] PH125.6 Data Science: [Wrangling][6]
-   - [x] PH125.7 Data Science: [Linear Regression][7]
-   - [ ] PH125.8 Data Science: Machine Learning [web][w1]
-   - [ ] PH125.9 Data Science: Capstone :mortar_board: (doit etre complete en dernier)
+   - [x] PH125.1 Data Science: [R Basics][w1] [:page_with_curl:][1]
+   - [x] PH125.2 Data Science: [Visualization][w2] [:page_with_curl:][2]
+   - [x] PH125.3 Data Science: [Probability][w3] [:page_with_curl:][3]
+   - [x] PH125.4 Data Science: [Inference and Modeling][w4] [:page_with_curl:][4]
+   - [x] PH125.5 Data Science: [Productivity Tools][w5] [:page_with_curl:][5]
+   - [x] PH125.6 Data Science: [Wrangling][w6] [:page_with_curl:][6]
+   - [x] PH125.7 Data Science: [Linear Regression][7] [:page_with_curl:][7]
+   - [ ] PH125.8 Data Science: [Machine Learning][w8]
+   - [ ] PH125.9 Data Science: [Capstone][w9]
+
+\* *nom du cours rapporte la page de description*
+
+\* *emoji de certificat rapporte le certificat*
 
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
 
 Il est possible de faire le meme programme en ligne et d'obtenir les credits universitaires de Harvard mais au cout de 2500$ par cours ...
 
-[Informations]()
+[Informations](https://harvardx.harvard.edu/blog/boost-your-data-science-career-online-courses)
 
 [1]: https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314
 [2]: https://courses.edx.org/certificates/64d48644f39f4607b71a7350c2c58d3c
@@ -43,7 +47,15 @@ Il est possible de faire le meme programme en ligne et d'obtenir les credits uni
 [7]: https://courses.edx.org/certificates/f8648ba4b3b843e5a7d991ad2f5f545e
 [10]: https://rafalab.github.io/dsbook/
 
-[w1]: https://online-learning.harvard.edu/course/data-science-machine-learning
+[w1]: https://online-learning.harvard.edu/course/data-science-r-basics
+[w2]: https://online-learning.harvard.edu/course/data-science-visualization
+[w3]: https://online-learning.harvard.edu/course/data-science-probability
+[w4]: https://online-learning.harvard.edu/course/data-science-inference-and-modeling
+[w5]: https://online-learning.harvard.edu/course/data-science-productivity-tools
+[w6]: https://online-learning.harvard.edu/course/data-science-wrangling
+[w7]: https://online-learning.harvard.edu/course/data-science-linear-regression
+[w8]: https://online-learning.harvard.edu/course/data-science-machine-learning
+[w9]: https://online-learning.harvard.edu/course/data-science-capstone
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -76,8 +88,3 @@ C'est selon moi le meilleur programme de certificat au Quebec pour etre en mesur
 
 [h1]: https://ivado.ca/en/
 [h2]: https://mila.quebec/en/
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
