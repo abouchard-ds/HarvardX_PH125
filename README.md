@@ -25,7 +25,7 @@ Le programme est composé des 9 cours suivants :
    - [x] PH125.5 Data Science: [Productivity Tools][5]
    - [x] PH125.6 Data Science: [Wrangling][6]
    - [x] PH125.7 Data Science: [Linear Regression][7]
-   - [ ] PH125.8 Data Science: Machine Learning :hot_pepper: (reporte du 4 sept au 11 au 18 au 4 oct au 11 oct ...)
+   - [ ] PH125.8 Data Science: Machine Learning [web][w1]
    - [ ] PH125.9 Data Science: Capstone :mortar_board: (doit etre complete en dernier)
 
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
@@ -43,6 +43,7 @@ Il est possible de faire le meme programme en ligne et d'obtenir les credits uni
 [7]: https://courses.edx.org/certificates/f8648ba4b3b843e5a7d991ad2f5f545e
 [10]: https://rafalab.github.io/dsbook/
 
+[w1]: https://online-learning.harvard.edu/course/data-science-machine-learning
 
 ------------------------------------------------------------------------------------------------------------------------
 
