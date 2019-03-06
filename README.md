@@ -24,8 +24,8 @@ Le programme est composé des 9 cours suivants :
    - [x] PH125.4 Data Science: [Inference and Modeling][w4] [:page_with_curl:][4]
    - [x] PH125.5 Data Science: [Productivity Tools][w5] [:page_with_curl:][5]
    - [x] PH125.6 Data Science: [Wrangling][w6] [:page_with_curl:][6]
-   - [x] PH125.7 Data Science: [Linear Regression][7] [:page_with_curl:][7]
-   - [ ] PH125.8 Data Science: [Machine Learning][w8]
+   - [x] PH125.7 Data Science: [Linear Regression][w7] [:page_with_curl:][7]
+   - [x] PH125.8 Data Science: [Machine Learning][w8][:page_with_curl:][8]
    - [ ] PH125.9 Data Science: [Capstone][w9]
 
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
