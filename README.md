@@ -28,7 +28,7 @@ Le programme est composé des 9 cours suivants :
    - [x] PH125.8 Data Science: [Machine Learning][w8][:page_with_curl:][8]
    - [ ] PH125.9 Data Science: [Capstone][w9]
 
-:notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
+Un livre gratuit est fourni: [Introduction to datascience][10]
 
 Il est possible de faire le meme programme en ligne et d'obtenir les credits universitaires de Harvard mais au cout de 2500$ par cours ...
 
