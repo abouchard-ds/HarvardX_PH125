@@ -28,10 +28,6 @@ Le programme est composé des 9 cours suivants :
    - [ ] PH125.8 Data Science: [Machine Learning][w8]
    - [ ] PH125.9 Data Science: [Capstone][w9]
 
-\* *nom du cours rapporte la page de description*
-
-\* *emoji de certificat rapporte le certificat*
-
 :notebook: Un livre gratuit (R Markdown, en cours de rédaction) est fourni: [Introduction to datascience][10]
 
 Il est possible de faire le meme programme en ligne et d'obtenir les credits universitaires de Harvard mais au cout de 2500$ par cours ...
@@ -45,6 +41,7 @@ Il est possible de faire le meme programme en ligne et d'obtenir les credits uni
 [5]: https://courses.edx.org/certificates/6ef7b5368b714d00a4608c7575e41dc0
 [6]: https://courses.edx.org/certificates/b126c78808f940d18839ac3ffeef2e3f
 [7]: https://courses.edx.org/certificates/f8648ba4b3b843e5a7d991ad2f5f545e
+[8]: https://courses.edx.org/certificates/70f8d285d6ab4e83b67445417461b120
 [10]: https://rafalab.github.io/dsbook/
 
 [w1]: https://online-learning.harvard.edu/course/data-science-r-basics
@@ -65,7 +62,7 @@ Il est possible de faire le meme programme en ligne et d'obtenir les credits uni
 
 Le certificat est semblable et complémentaire au programme d'analytique d'affaires que j'entreprend à l'école des Hautes-Etudes-Commerciales Montréal. Il me permet d'acquérir plus de pratique et d'études de cas et de mettre une plus grande emphase au niveau programmation linux.
 
-Outre R, HEC couvre plus de logiciels propriétaires tels que : Excel, VBA, SAS, SPSS, Tableau et les cours de statistiques sont plus complets et nombreux. La différence est que c'est plus long a completer et que l'on utilise le terme 'analytique d'affaires' au lieu de "*science des données*". Côté critique, je crois que l'école devrait mettre plus de temps sur les algorithmes d'apprentissage statistiques et l'apprentissage profond (programme issus de [IVADO][h1] et [MILA][h2]). Une plus grande emphase sur les logiciels *open source* (Python, PSPP, Orange, octave,...) qui permettent d'appliquer ce que l'on apprend en réduisant les coûts d'opérations des entreprises serait aussi un avantage.
+Outre R, HEC couvre plus de logiciels propriétaires tels que : Excel, VBA, SAS, SPSS, Tableau et les cours de statistiques sont plus complets et nombreux. La différence est que c'est plus long a completer et que l'on utilise le terme 'analytique d'affaires' au lieu de "*science des données*". Côté critique, je crois que l'école devrait mettre plus de temps sur les algorithmes d'apprentissage statistiques et l'apprentissage profond (programme issus de [IVADO][h1] et [MILA][h2]). Une plus grande emphase sur les logiciels *open source* (Python, PSPP, Orange, Octave,...) qui permettent d'appliquer ce que l'on apprend en réduisant les coûts d'opérations des entreprises serait aussi un avantage.
 
 Le certificat HEC est composé de 10 cours (30 crédits). Voici un tableau qui tente de souligner la similarité de la matière des 2 programmes:
 
