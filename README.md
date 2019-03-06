@@ -32,7 +32,9 @@ Un livre gratuit est fourni: [Introduction to datascience][10]
 
 Il est possible de faire un programme similaire en ligne et d'obtenir les credits universitaires de Harvard mais au cout de 11,000 USD ...
 
-[Informations](https://www.extension.harvard.edu/academics/professional-graduate-certificates/data-science-certificate)
+[Info (ce programme)](https://online-learning.harvard.edu/series/professional-certificate-data-science)
+
+[Info (avec credit)](https://www.extension.harvard.edu/academics/professional-graduate-certificates/data-science-certificate)
 
 [1]: https://courses.edx.org/certificates/3bd6534cff1441729903746548aa0314
 [2]: https://courses.edx.org/certificates/64d48644f39f4607b71a7350c2c58d3c
