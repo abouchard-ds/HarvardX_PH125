@@ -70,15 +70,15 @@ Le certificat HEC est composé de 10 cours (30 crédits). Voici un tableau qui t
 
 | HEC Montreal                              | Harvard                                               |
 | ----------------------------------------- | ----------------------------------------------------- |
-| 3060017 Statistique                       | PH125.3 Probability , PH125.4 Inference and Modeling , PH125.7 Linear Regression |
-| 3060216 Logiciels statistiques pour la gestion | PH125.1 R Basics, PH125.5 Productivity Tools     |
-| 3060316 Méthodes statistiques avancées    | PH125.4 Inference & Modeling,PH125.7 Linear Regression|
-| 3060616 Traitement et visualisation de données| PH125.6 Wrangling , PH125.2 Visualization         |
+| [x] 3060017 Statistique                   | PH125.3 Probability , PH125.4 Inference and Modeling , PH125.7 Linear Regression |
+| [x] 3060216 Logiciels statistiques pour la gestion | PH125.1 R Basics, PH125.5 Productivity Tools     |
+| [x] 3060316 Méthodes statistiques avancées    | PH125.4 Inference & Modeling,PH125.7 Linear Regression|
+| [x] 3060616 Traitement et visualisation de données| PH125.6 Wrangling , PH125.2 Visualization     |
 | 3065017 Introduction à l'analytique d'affaires| (pas d'équivalent - survol du data science)       |
 | 3060816 Modèles d'optimisation et de recherche opérationnelle | PH125.8 Machine Learning          |
 | 3060716 Web analytique                    | (pas d'équivalent - marketing avec Google analytics?) |
-| 3063614 Intro. à l'exploitation de données| PH125.8 Machine Learning                              |
-| Au choix                                  |                                                       |
+| [x] 3063614 Intro. à l'exploitation de données| PH125.8 Machine Learning                          |
+| Leadership et gestion de projets          |                                                       |
 | Au choix                                  |                                                       |
 
 C'est selon moi le meilleur programme de certificat au Quebec pour etre en mesure de faire du data science/business analytics rapidement. (une specialisation analytique pour le BAA ou une maitrise c'est un peu plus long ....)
