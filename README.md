@@ -16,7 +16,7 @@ Le certificat est une excellente introduction à la programmation R et aux stati
 
 Le professeur Irizarry est biostatisticien et professeur au *Harvard T.H. Chan School of Public Health*. La description du certificat est: "*The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning*." Le cursus utilise R et rstudio sur linux.
 
-Le programme est composé des 9 cours suivants :
+Le programme est composé des 8 cours suivants (et un projet d'integration):
 
    - [x] PH125.1 Data Science: [R Basics][w1] [:page_with_curl:][1]
    - [x] PH125.2 Data Science: [Visualization][w2] [:page_with_curl:][2]
