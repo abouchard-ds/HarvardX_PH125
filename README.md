@@ -81,7 +81,7 @@ Le certificat HEC est composé de 10 cours (30 crédits). Voici un tableau qui t
 | [x] Leadership et gestion de projets      |                                                       |
 | Au choix                                  |                                                       |
 
-C'est selon moi le meilleur programme de certificat au Quebec pour etre en mesure de faire du data science/business analytics rapidement. (une specialisation analytique pour le BAA ou une maitrise c'est un peu plus long ....)
+Je crois que c'est le meilleur programme de certificat au Quebec pour etre en mesure de faire du data science/business analytics rapidement. (une specialisation analytique pour le BAA ou une maitrise c'est un peu plus long ....)
 
 [Informations](http://www.hec.ca/programmes/certificats/certificat-analytique-affaires/structure/index.html)
 
